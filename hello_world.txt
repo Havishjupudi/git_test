@@ -1,1 +1,2 @@
 Hello_World!!
+I successfully pushed a file to my GitHUb repository usibg push command
